@@ -50,3 +50,6 @@ Within our gaming ecosystem, the seamless integration of our NFT smart contract 
 # Future Scope
 
 We have an exciting roadmap that includes several significant enhancements. These include the implementation of a store system, allowing for NFT transactions and the creation of a robust marketplace. We're also planning to introduce a multiplayer mode, providing opportunities for cooperative gameplay and social interaction. Non-player characters (NPCs) are on the horizon, adding depth to our game's narrative and quests.
+
+![image](https://github.com/sychen303/Valak/assets/38778028/bc0a5af6-814b-4618-b637-17346b349e17)
+
