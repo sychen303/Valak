@@ -41,5 +41,6 @@ Within our gaming ecosystem, the seamless integration of our NFT smart contract 
 
 
 ![image](https://github.com/sychen303/Valak/assets/38778028/0b3b3220-1e7f-4ac7-9259-0ea58492bc95)
+![image](https://github.com/sychen303/Valak/assets/38778028/5cf1c842-007b-489b-9244-a14fbe62e184)
 
 
