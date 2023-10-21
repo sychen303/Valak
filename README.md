@@ -2,7 +2,8 @@
 Our initiative introduces a unique approach to NFT acquisition. Armed with just a single headlight, embark on an exhilarating adventure to uncover hidden NFT treasures.
 
 
-![image](https://github.com/sychen303/Valak/assets/38778028/0b3b3220-1e7f-4ac7-9259-0ea58492bc95)
+![image](https://github.com/sychen303/Valak/assets/38778028/477e6898-4fca-4be5-b382-3ab540ff684e)
+
 
 <br>
 
@@ -39,5 +40,6 @@ Adrenaline-Inducing Horror: The horror-themed setting adds a unique layer of exc
 Within our gaming ecosystem, the seamless integration of our NFT smart contract with the Fuji Testnet ensures a secure and user-friendly environment for verified gamers to confidently mint and transfer NFTs.
 
 
+![image](https://github.com/sychen303/Valak/assets/38778028/0b3b3220-1e7f-4ac7-9259-0ea58492bc95)
 
 
