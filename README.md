@@ -1,5 +1,5 @@
-# Valak 
-Our initiative introduces a unique approach to NFT acquisition. Armed with just a single headlight, embark on an exhilarating adventure to uncover hidden NFT treasures.
+# Introducing Valak 
+An unique approach to NFT acquisition. Armed with just a single headlight, embark on an exhilarating adventure to uncover hidden NFT treasures.
 
 
 ![image](https://github.com/sychen303/Valak/assets/38778028/477e6898-4fca-4be5-b382-3ab540ff684e)
@@ -53,7 +53,12 @@ We have an exciting roadmap that includes several significant enhancements. Thes
 
 ![image](https://github.com/sychen303/Valak/assets/38778028/bc0a5af6-814b-4618-b637-17346b349e17)
 
+# Challenges We Faced
+
+Our journey was marked by significant challenges, foremost among them being the steep learning curve of Unity, the incorporation of Web3 technology, and the integration of various SDKs into our project. Notably, none of our team members had prior blockchain experience, which added complexity to our task. These hurdles, coupled with the demand for seamless collaboration and communication, put our adaptability and problem-solving skills to the test. Regrettably, due to the constraints of a strict timeline, we couldn't fully realize all our marketplace ideas as initially envisioned.
+
 # Our TechStack
+
 Unity <br>
 C#  <br>
 Solidity <br>
@@ -61,4 +66,9 @@ Figma <br>
 ThirdWeb <br>
 ChainSafe (Web3.Unity) <br>
 Avalanche Fuji TestNet <br>
+
+---
+
+![image](https://github.com/sychen303/Valak/assets/38778028/0bb14c76-38a5-4e41-839a-e9020bc591b7)
+
 
