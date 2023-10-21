@@ -12,11 +12,15 @@ Game Concept: Our Unity-based game introduces a unique concept that combines exp
 
 Immersive Experience: We aim to provide players with a highly immersive and engaging experience by leveraging Unity's capabilities.
 
+<br>
+
 # NFT Snippet Quest
 
 Innovative Idea: The core of our project revolves around the quest for NFT snippets scattered throughout the eerie game environment.
 
 Collection Mechanism: Players are equipped with a spotlight or headlight, and they must navigate the ominous terrain to shine their light on concealed NFT fragments, assembling a complete NFT.
+
+<br>
 
 # Gamified Experience
 
