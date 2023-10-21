@@ -53,3 +53,12 @@ We have an exciting roadmap that includes several significant enhancements. Thes
 
 ![image](https://github.com/sychen303/Valak/assets/38778028/bc0a5af6-814b-4618-b637-17346b349e17)
 
+# Our TechStack
+Unity <br>
+C#  <br>
+SOLDITY <br>
+FIGMA <br>
+THIRDWEB <br>
+CHAINSAFE(WEB3.UNITY) <br>
+AVALANCHE FUJI TESTNET <br>
+
