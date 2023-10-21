@@ -17,9 +17,7 @@ Game Concept: Our Unity-based game introduces a unique concept that combines exp
 
 Immersive Experience: We aim to provide players with a highly immersive and engaging experience by leveraging Unity's capabilities.
 
-
 ![image](https://github.com/sychen303/Valak/assets/38778028/77064160-ab5c-4813-a42e-b85c22093a3a)
-
 
 <br>
 
@@ -29,6 +27,8 @@ Innovative Idea: The core of our project revolves around the quest for NFT snipp
 
 Collection Mechanism: Players are equipped with a spotlight or headlight, and they must navigate the ominous terrain to shine their light on concealed NFT fragments, assembling a complete NFT.
 
+![image](https://github.com/sychen303/Valak/assets/38778028/07c34726-2645-4254-a036-118f5f325928)
+
 <br>
 
 # Gamified Experience
@@ -36,6 +36,8 @@ Collection Mechanism: Players are equipped with a spotlight or headlight, and th
 Blending Exploration and NFTs: Our primary objective is to create a gamified experience that seamlessly combines the excitement of exploration with the thrill of NFT collection.
 
 Adrenaline-Inducing Horror: The horror-themed setting adds a unique layer of excitement and adrenaline, making NFT collection an unforgettable adventure.
+
+![image](https://github.com/sychen303/Valak/assets/38778028/8ef1012d-0ca7-4c14-af03-6e795bc904e3)
 
 <br>
 
