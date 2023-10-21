@@ -4,8 +4,12 @@ Our initiative introduces a unique approach to NFT acquisition. Armed with just 
 
 ![image](https://github.com/sychen303/Valak/assets/38778028/0b3b3220-1e7f-4ac7-9259-0ea58492bc95)
 
+<br>
+
 # Overview
 In our Unity-based horror game, players embark on a thrilling journey to explore and hunt for NFT snippets in a chilling environment. Equipped with a spotlight, they must uncover hidden NFT fragments to complete a unique NFT. Our game offers an immersive, gamified experience that combines exploration and NFT collection within a heart-pounding horror theme. While we may not address a conventional problem, we provide a one-of-a-kind way to engage with NFTs, appealing to gamers and NFT enthusiasts seeking an adrenaline rush. We're excited to showcase this fusion of technology and horror entertainment at the hackathon.
+
+<br>
 
 # Approach: NFT Hunting in a Horror Setting
 Game Concept: Our Unity-based game introduces a unique concept that combines exploration and NFT hunting within a spine-chilling horror setting.
