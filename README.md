@@ -44,6 +44,8 @@ Adrenaline-Inducing Horror: The horror-themed setting adds a unique layer of exc
 # Applied Track: Avalanche's C-Chain EVM Track
 
 Within our gaming ecosystem, the seamless integration of our NFT smart contract with the Fuji Testnet ensures a secure and user-friendly environment for verified gamers to confidently mint and transfer NFTs.
+
+
 [#Avalanche @av](https://github.com/ava-labs)
 
 
