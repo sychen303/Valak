@@ -16,6 +16,8 @@ In our Unity-based horror game, players embark on a thrilling journey to explore
 Game Concept: Our Unity-based game introduces a unique concept that combines exploration and NFT hunting within a spine-chilling horror setting.
 
 Immersive Experience: We aim to provide players with a highly immersive and engaging experience by leveraging Unity's capabilities.
+
+
 ![image](https://github.com/sychen303/Valak/assets/38778028/77064160-ab5c-4813-a42e-b85c22093a3a)
 
 
