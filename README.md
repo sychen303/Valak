@@ -32,7 +32,11 @@ Blending Exploration and NFTs: Our primary objective is to create a gamified exp
 
 Adrenaline-Inducing Horror: The horror-themed setting adds a unique layer of excitement and adrenaline, making NFT collection an unforgettable adventure.
 
+<br>
 
+# Applied Track: Avalanche's C-Chain EVM Track
+
+Within our gaming ecosystem, the seamless integration of our NFT smart contract with the Fuji Testnet ensures a secure and user-friendly environment for verified gamers to confidently mint and transfer NFTs.
 
 
 
