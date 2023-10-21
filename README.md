@@ -56,9 +56,9 @@ We have an exciting roadmap that includes several significant enhancements. Thes
 # Our TechStack
 Unity <br>
 C#  <br>
-SOLDITY <br>
-FIGMA <br>
-THIRDWEB <br>
-CHAINSAFE(WEB3.UNITY) <br>
-AVALANCHE FUJI TESTNET <br>
+Solidity <br>
+Figma <br>
+ThirdWeb <br>
+ChainSafe (Web3.Unity) <br>
+Avalanche Fuji TestNet <br>
 
