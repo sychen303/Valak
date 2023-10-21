@@ -1,5 +1,10 @@
-# Valak
- An intriguing FPV game that focuses on the NFT as collectibles , which was created in unfold'23
+# Valak 
+Our initiative introduces a unique approach to NFT acquisition. Armed with just a single headlight, embark on an exhilarating adventure to uncover hidden NFT treasures.
 
- <img src="Imgs/valak-logo.png">
-  <img src="Imgs/Screenshot (231).png">
+![image](https://github.com/sychen303/Valak/assets/38778028/0b3b3220-1e7f-4ac7-9259-0ea58492bc95)
+
+# Our Approach
+
+
+
+
